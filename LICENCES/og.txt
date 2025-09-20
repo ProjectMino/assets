@@ -1,0 +1,42 @@
+Community Fan Use License (CFUL), Version 1.0
+
+Copyright © 2025 Team Project Mino. All rights reserved.
+
+Definitions
+1.1 "Assets" means any characters, stories, artwork, designs, lore, or other creative elements released under this License.
+1.2 "Fan Works" means works created by You that incorporate or are derived from the Assets, including adaptations, modifications, and transformations.
+1.3 "You" (or "Your") means an individual or legal entity exercising rights under this License.
+1.4 "Commercial Use" means any use primarily intended for or directed toward commercial advantage or monetary compensation.
+
+Ownership
+All rights, title, and interest in and to the Assets are and shall remain the exclusive property of Team Project Mino. Nothing in this License transfers or assigns any ownership, copyright, or trademark rights in the Assets.
+
+Grant of Rights
+Subject to the conditions set forth in this License, Team Project Mino hereby grants You a worldwide, non-exclusive, royalty-free, revocable license to:
+(a) reproduce, display, and distribute the Assets;
+(b) create and distribute Fan Works;
+(c) use the Assets in non-commercial community projects.
+
+Conditions of Use
+The rights granted in Section 3 are subject to the following conditions:
+4.1 Attribution. You must provide appropriate credit to Team Project Mino in any public use, display, or distribution of the Assets or Fan Works. Attribution must be reasonably visible and must not be removed or obscured.
+4.2 Non-Commercial Restriction. The Assets and Fan Works may not be used for Commercial Use without the express prior written permission of Team Project Mino.
+4.3 No Endorsement. Fan Works must not state or imply that they are endorsed by, sponsored by, or affiliated with Team Project Mino, unless such endorsement has been expressly granted.
+4.4 License Consistency. If You distribute a Fan Work, You must do so under this License or a license no more permissive.
+
+Compatibility with MPL 2.0
+This License is intended to be compatible with the Mozilla Public License 2.0 ("MPL 2.0"). Where Assets are distributed in combination with source code licensed under MPL 2.0, each component remains subject to its respective license, and both licenses shall apply in parallel.
+
+Termination
+This License and the rights granted hereunder automatically terminate if You fail to comply with its terms. Upon termination, You must immediately cease all use and distribution of the Assets and any Fan Works. Team Project Mino may reinstate rights under this License at its sole discretion.
+
+Disclaimer of Warranty
+The Assets are provided "as is" and without warranty of any kind, whether express, implied, or statutory, including but not limited to warranties of merchantability, fitness for a particular purpose, title, and non-infringement.
+
+Limitation of Liability
+To the maximum extent permitted by law, in no event shall Team Project Mino or its contributors be liable for any damages, whether direct, indirect, incidental, consequential, special, or exemplary, arising out of or in connection with this License, the Assets, or Fan Works, even if advised of the possibility of such damages.
+
+Miscellaneous
+9.1 Severability. If any provision of this License is held invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+9.2 No Waiver. Failure by Team Project Mino to enforce any provision of this License shall not constitute a waiver of future enforcement of that or any other provision.
+9.3 Governing Law. This License shall be governed by and construed in accordance with the laws of British Columbia and the federal laws of Canada applicable therein. Venue and jurisdiction shall be in Vancouver, British Columbia, Canada.
